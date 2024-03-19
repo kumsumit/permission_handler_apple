@@ -6,8 +6,8 @@ issue_tracker: https://github.com/Baseflow/flutter-permission-handler/issues
 version: 9.1.4
 
 environment:
-  sdk: ">=3.1.0 <4.0.0"
-  flutter: ">=3.13.0"
+  sdk: ">=3.3.1 <4.0.0"
+  flutter: ">=3.19.3"
 
 flutter:
   plugin:
